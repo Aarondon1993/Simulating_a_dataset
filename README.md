@@ -1,8 +1,10 @@
+![alt text](https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png)
+# Programming for Data Analysis Project
+# Simulating a Dataset
 
-# Simulating_a_dataset
 # Aaron Donnelly- G00299531
 
-## This README contains a summary of the jupyter notebook containing the end of module project for Programming for Data Analysis
+## This README contains a summary of the Jupyter Notebook containing the end of module project for Programming for Data Analysis
 ***
 
 ## Introduction
